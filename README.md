@@ -1,10 +1,8 @@
 # 👋 Hola, soy Guillermo García
 
-🎯 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el **IES La Vereda** (València, España).  
-💻 Interesado en el desarrollo de software, automatización y programación multiplataforma.  
-🧠 Conocimientos en distintos entornos y tecnologías aplicadas tanto al desarrollo web como al software multiplataforma.  
-🐧 Usuario habitual de entornos **Linux** y herramientas de terminal.  
-📸 Enfocado en aprender sobre **visión por computador** y reconocimiento de texto.
+### 🎯 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el **IES La Vereda** (València, España).  
+### 🧠 Conocimientos en distintos entornos y tecnologías aplicadas tanto al desarrollo web como al software multiplataforma.  
+### 🐧 Usuario habitual de entornos **Linux** y herramientas de terminal.  
 ---
 ## 🧠 Lenguajes de programación
 
