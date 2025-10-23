@@ -44,8 +44,9 @@
 
 ## 📊 Estadísticas de GitHub
 ![Guillermo's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Guigarmon3&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Guigarmon3&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Guigarmon3&theme=tokyonight&hide_border=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=Guigarmon3&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guigarmon3&layout=compact&theme=tokyonight)
+
 
 ---
 
